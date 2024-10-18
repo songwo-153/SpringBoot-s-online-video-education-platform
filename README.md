@@ -13,8 +13,8 @@ JDK版本：JDK1.8
 数据库工具：Navicat11
 开发软件：idea
 
-源码获取：
-或者
+源码获取：[SpringBoot在线视频教育平台源码](https://gitee.com/ss-i-gg/Online-video-education-platform-based-on-SpringBoot/raw/master/%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E6%95%99%E8%82%B2%E5%B9%B3%E5%8F%B0%E6%BA%90%E7%A0%81.zip)
+
 
 **系统功能介绍**
 在线视频教育平台主要功能如下：
@@ -49,3 +49,6 @@ JDK版本：JDK1.8
 **后台管理员登录**
 ![输入图片说明](11%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E7%99%BB%E9%99%86.png)
 ![输入图片说明](10%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E5%91%98%E7%AE%A1%E7%90%86.png)
+
+
+源码获取：[SpringBoot在线视频教育平台源码](https://gitee.com/ss-i-gg/Online-video-education-platform-based-on-SpringBoot/raw/master/%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E6%95%99%E8%82%B2%E5%B9%B3%E5%8F%B0%E6%BA%90%E7%A0%81.zip)
